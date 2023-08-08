@@ -26,3 +26,11 @@ body {
 .navbar-collapse {
     justify-content: flex-end;
 }
+
+.header {
+    height: 970px;
+    background-image: url("images/header-background.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
